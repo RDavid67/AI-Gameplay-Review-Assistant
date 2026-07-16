@@ -116,11 +116,11 @@ Let video processing finish normally. Interrupting the process can leave the out
 
 ## Final Video Examples
 
-The final video provides three representative result types:
+Representative screenshots are available in the [Final Detection Examples](results/README.md) page:
 
-- `results/final_video_success.png`: a successful outdoor person detection at approximately 25 seconds.
-- `results/final_video_multi_person.png`: a crowded multi-person scene at approximately 45 seconds.
-- `results/final_video_missed_detection.png`: a moving indoor scene at approximately 5 seconds where visible people are missed.
+- A successful outdoor person detection at approximately 25 seconds.
+- A crowded multi-person scene at approximately 45 seconds.
+- A moving indoor scene at approximately 5 seconds where visible people are missed.
 
 Formal mAP, precision, recall, and end-to-end FPS have not yet been reported. Current conclusions are based on qualitative image and video comparisons.
 
@@ -135,8 +135,7 @@ Formal mAP, precision, recall, and end-to-end FPS have not yet been reported. Cu
 
 ## Remaining Packaging Steps
 
-- Upload the three representative final-video screenshots to `results`.
-- Add the final normal demonstration video or a shareable video link.
+- Add the final normal demonstration video or a shareable link only after everyone shown has agreed to public distribution.
 - Measure mAP, precision, recall, and processing speed when time permits.
 - Add reproducible setup details and any final helper scripts to `src`.
 
