@@ -4,6 +4,9 @@ An AI-assisted post-match review prototype that detects visible people in prerec
 
 > **Project status:** the final visible-body model has completed training, has been exported to ONNX, and has passed image and video inference tests. The final demonstration video uses a confidence threshold of `0.25`. The current version is a functional demonstration prototype, not a live competitive-assistance tool.
 
+## Demo
+https://drive.google.com/file/d/1Yq3zfm_3j7zWIKwCsVSEhRHVCLwJurXN/view?usp=sharing
+
 ## Project Goal
 
 The project helps players review their own recorded matches after play. The first use case is the Solo vs Squad mode in *Delta Force*, where one player may encounter squads of up to three players. Human-detection boxes make encounters easier to locate and inspect during replay review.
